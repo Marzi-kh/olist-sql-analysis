@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS olist;
+USE olist;
+
+
+-- Check
+SHOW TABLES;
