@@ -1,5 +1,3 @@
-Olist E-commerce SQL Analysis
-
 Project Overview
 In this project, I explored customer behavior using the Olist e-commerce dataset to understand why most customers don’t come back and what actually drives repeat purchases.
 The main idea was pretty simple: why is retention so low, and is it something the business can fix?
